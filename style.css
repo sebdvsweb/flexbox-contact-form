@@ -1,0 +1,41 @@
+/* Couleurs :  bleu  #00b4cf; blanc #ffffff, violet #BE8CEF */
+
+/* Les input du formulaire doivent avoir la bordure #00b4cf lorsqu'ils sont actifs */
+
+/* Font */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,800");
+
+/* CSS de base */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background: linear-gradient(90deg, #be8cef 0%, rgba(61, 46, 232, 0.83) 100%); /* Dégradé */
+  font-family: "Montserrat", sans-serif;
+  height: 100vh; /* hauteur 100% de l'écran */
+  
+  /* Faire le centrage avec flexbox */
+
+}
+
+.container {
+     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22); /* Ombre portée */
+
+  /* 768px */
+
+
+}
+
+/* Conteneur gauche */
+
+.left-container {
+ 
+}
+
+/* Conteneur droite */
+
+.right-container {
+
+}
